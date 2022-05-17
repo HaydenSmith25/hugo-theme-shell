@@ -1,4 +1,4 @@
-baseURL = "https://www.tashapais.com/"
+baseURL = "https://www.haydensmith.com/"
 title = "Shell"
 # author = "Yukuro"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
@@ -36,7 +36,7 @@ ignoreErrors = ["error-remote-getjson"]
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "tasha"
+  userName = "Hayden"
   pcName = "myPortal"
   workDir = "mydir"
   profile = "profile.txt"
@@ -63,21 +63,19 @@ ignoreErrors = ["error-remote-getjson"]
   # activityDelay = 5 : deprecated
 
   description = """
-Hi I am Tasha Pais! Nice to meet you 🤠
+Hi I am Hayden Smith! 
 
-I study <span style="color:orchid">Computer Science</span> at Columbia. 
-I can also play the piano and run a pretty fast mile.
+I am an asipring <span style="color:orchid">Software Engineer.</span> 
+I can also hoop a little and run a pretty fast mile.
 
-I grew up in Bangalore, Queens, Singapore, and New Jersey
-but currently <span style="color:pink">live in NYC</span> at a startup house.
+I grew up in Burleson, Texas and completed my undergraduate degree from <span style="color:crimson">University of Oklahoma.</span> 
+Currently looking for a <span style="color:mediumvioletred">web development or cloud engineering</span> position.
 
-One of my biggest priorities is diving deep into new tech
-and <span style="color:darkorange">building technical competence.</span>
+One of my biggest interests is diving deep into new tech
+and <span style="color:darkblue">building technical competence.</span>
 
-Check out my <a href="https://medium.com/@tashapais">writing</a> and <a href="https://github.com/tashapais">code</a>. Connect with me on <a href="https://twitter.com/TashaPais">Twitter</a> or <a href="https://www.linkedin.com/in/tasha-pais-9360281a7/">LinkedIn</a>.
+Check out my <a href="https://www.notion.so/Hayden-s-Ledger-e84457929af1418681f90172d5bf1e27">ledger</a> and <a href="https://github.com/HaydenSmith25">code</a>. Connect with me on <a href="https://twitter.com/htimsnedyah">Twitter</a> or <a href="https://www.linkedin.com/in/smith-hayden/">LinkedIn</a>.
 
-I currently work as a <span style="color:DodgerBlue">freelance Solana developer.</span>
-Have a challenge? 👉 tashapais@gmail.com
 
   """
 
@@ -90,7 +88,7 @@ Have a challenge? 👉 tashapais@gmail.com
   folderName = "my_activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-["Building a VC backed hacker house", "https://runway.ju.mp/"],
+["NBA API to get player stats from any season.", "https://github.com/HaydenSmith25/NBA-API"],
   ["My latest fully functioning Solana application", "https://solana-game.vercel.app/"],
   ["An upcoming workshop about my contrarian take on web3", "https://csc.barnard.edu/events/postponed-pop-workshop-web3-and-new-world-order-blockchain-first-principles-developer"],
   ["Playlist of past piano performances I'm adding to", "https://www.youtube.com/playlist?list=PL3rUNYN0nAwpCO2Xk6KlmptSmprpcpId6"],
